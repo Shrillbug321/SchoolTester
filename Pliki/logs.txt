@@ -1,0 +1,39 @@
+Brak pliku easy_wyniki.txt
+Brak pliku medium_wyniki.txt
+Brak pliku hard_wyniki.txt
+Pomyœlnie zalogowano nauczyciela/nauczycielkê.
+Brak pliku easy_wyniki.txt
+Brak pliku medium_wyniki.txt
+Brak pliku hard_wyniki.txt
+Pomyœlnie zalogowano nauczyciela/nauczycielkê.
+Brak pliku easy_wyniki.txt
+Brak pliku medium_wyniki.txt
+Brak pliku hard_wyniki.txt
+Pomyœlnie zalogowano nauczyciela/nauczycielkê.
+Dodano pytanie/a do pliku Pliki/medium.txt.
+Usuniêto pytanie/a z pliku Pliki/medium.txt.
+Dodano pytanie/a do pliku Pliki/medium.txt.
+Dodano pytanie/a do pliku Pliki/hard.txt.
+Dodano pytanie/a do pliku Pliki/medium.txt.
+Prawid³owo zamkniêto program.
+
+Brak pliku easy_wyniki.txt
+Brak pliku medium_wyniki.txt
+Brak pliku hard_wyniki.txt
+Nie znaleziono pliku z has³ami.
+ Kopii zapasowej równie¿ nie znaleziono.
+Nie znaleziono pliku z has³ami.
+ Kopii zapasowej równie¿ nie znaleziono.
+Nie znaleziono pliku z has³ami.
+ Kopii zapasowej równie¿ nie znaleziono.
+Prawid³owo zamkniêto program.
+
+Nie znaleziono pliku z has³ami.
+ Kopii zapasowej równie¿ nie znaleziono.
+Dodano u¿ytkownika.
+Utworzono kopiê zapasow¹ bazy u¿ytkowników. 
+Prawid³owo zamkniêto program.
+
+Pomyœlnie zalogowano nauczyciela/nauczycielkê.
+Prawid³owo zamkniêto program.
+

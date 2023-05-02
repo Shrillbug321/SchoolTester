@@ -1,0 +1,4 @@
+Gdy zadane bêdzie pytanie o osobê, podaj tylko jej nazwisko chyba, ¿e w poleceniu bêdzie inaczej.
+Jeœli trzeba bêdzie podaæ rok, wpisz sam¹ liczbê bez r. czy rok.
+Tytu³y podawaj bez cudzys³owów.
+W wybieraniu rób odstêpy miêdzy literami.
